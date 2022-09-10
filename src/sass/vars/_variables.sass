@@ -1,0 +1,29 @@
+$font_regular: 'futura-pt', sans-serif
+$font_bold: 'futura-pt', sans-serif
+$font_code: 'futura-pt', sans-serif
+$font_pre: 'futura-pt', sans-serif
+
+.ctr
+  text-align: center
+
+.spr_t
+  @include ptop
+
+.spr_b
+  @include pbottom
+
+.tline::before
+  content: ''
+  height: 5px
+  width: 90px
+  background: $blue
+  display: block
+  margin-bottom: 1.5rem
+
+.bline::after
+  content: ''
+  height: 5px
+  width: 90px
+  background: $white
+  display: block
+  margin-top: 1.5rem

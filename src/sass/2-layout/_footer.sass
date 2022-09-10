@@ -1,0 +1,30 @@
+footer
+  background: $blue
+  padding-top: 2vw
+  @include pbottom
+
+  .footer__info
+    display: flex
+    justify-content: space-between
+
+  .legal
+    display: flex
+    align-items: flex-end
+    flex-direction: column
+    li
+      margin-top: .75rem
+  .contact
+    li
+      font-size: 1.4rem
+      margin-top: .75rem
+
+    li:last-child
+      margin-top: 1.5rem
+
+  ul.legal, ul.contact
+    li
+      a:hover
+        color: $white
+
+  ul.legal li a.link::before
+    height: 2px

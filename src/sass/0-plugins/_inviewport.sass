@@ -1,0 +1,12 @@
+/* inViewport */
+[data="fade-up"], [data="fade-up delay"]
+  transition: all ease 2s
+  opacity: 0
+  transform: translateY(5vw)
+
+[data="fade-up"].is_inview, [data="fade-up delay"].is_inview
+  opacity: 1
+  transform: translateY(0)
+
+[data="fade-up delay"]
+  transition-delay: .5s

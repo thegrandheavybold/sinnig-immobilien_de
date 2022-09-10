@@ -1,0 +1,23 @@
+{
+  "name": "blank_page__dev_kit",
+  "description": "",
+  "keywords": [],
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=*"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.5"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "normalize.css": "^8.0.1"
+  }
+}

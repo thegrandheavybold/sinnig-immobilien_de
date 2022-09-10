@@ -1,0 +1,32 @@
+section.team
+  background: $white
+  @include pbottom
+
+  ul.team_players
+    @include ptop
+    @include pbottom
+    display: flex
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: space-evenly
+    align-items: center
+    align-content: space-evenly
+
+    li
+      width: 270px
+      height: auto
+      display: flex
+      align-items: center
+      flex-wrap: wrap
+      flex-direction: column
+      margin: 2rem 0
+      picture
+        img
+          width: 200px
+          height: 200px
+          display: block
+          border-radius: 50%
+      span
+        text-align: center
+        padding: .5rem
+        display: block

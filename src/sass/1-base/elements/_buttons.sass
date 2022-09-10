@@ -1,0 +1,16 @@
+button
+  background-color: $blue
+  border: solid 3px transparent
+  border-radius: .5rem
+  padding: .75rem
+  color: $white
+  @include font_bold
+  font-size: min(max(5vw), 1rem)
+  line-height: min(max(7vw), 1.188rem)
+  cursor: pointer
+  transition: all ease .7s
+
+  &:hover
+    background-color: $white
+    border: solid 3px $blue
+    color: $blue

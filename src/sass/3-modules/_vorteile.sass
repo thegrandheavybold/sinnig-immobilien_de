@@ -1,0 +1,97 @@
+section.vorteile
+  background: $blue
+  @include ptop
+  @include pbottom
+
+  .wrapper
+
+    .item_01
+      grid-column: 1/-1
+      @include mbottom
+
+    .item_02
+      grid-column: 1/5
+
+
+    .item_03
+      grid-column: 6/-1
+
+    @media only screen and (max-width: 940px)
+      .item_02
+        grid-column: 1/-1
+        ul#vorteile_box li
+          margin-bottom: 5vw
+
+
+      .item_03
+        grid-column: 1/-1
+        margin: 0 auto
+        ul#vorteile_content li
+          height: auto
+          ul li
+            margin-bottom: 1rem
+
+  ul#vorteile_box
+    display: flex
+    flex-wrap: wrap
+    align-content: space-between
+    justify-content: space-evenly
+    height: 100%
+    cursor: pointer
+    li
+      text-align: center
+      color: $white
+      border: solid 5px $white
+      min-width: 200px
+      max-width: 295px
+      max-height: 150px
+      padding: 35px 25px
+      display: flex
+      align-items: center
+      justify-content: center
+      flex-direction: column
+      font-size: min(max(4vw), 1.333rem)
+      line-height: min(max(4vw), 1.6rem)
+      transition: all ease .7s
+
+      &:hover
+        box-shadow: 10px 15px 5px rgba($black, .35)
+      &.active
+        color: $blue
+        background: $white
+        &:hover
+          box-shadow: none
+
+
+  ul#vorteile_content
+    display: block
+    li
+      max-width: 455px
+      height: 575px
+      background: $white
+      text-align: center
+      padding: 2rem 3rem
+      display: none
+      justify-content: center
+      align-items: center
+      flex-wrap: wrap
+      transition: all ease .7s
+      opacity: 0
+      visibility: hidden
+      &.active
+        display: flex
+        opacity: 1
+        visibility: visible
+        ul
+          display: flex
+          flex-direction: column
+          justify-content: space-between
+          height: 100%
+          li
+            padding: 0
+            margin: 0
+            height: auto
+            width: auto
+            opacity: 1
+            visibility: visible
+            display: block

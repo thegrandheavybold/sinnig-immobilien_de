@@ -1,0 +1,120 @@
+//nav
+
+	//ul.nav
+		display: flex
+		flex-direction: row
+		justify-content: space-between
+		li.nav__item
+			margin-right: 1rem
+			&:last-child
+				margin-right: 0
+			a
+				text-transform: uppercase
+				font-size: min(max(1vw), .9rem)
+				line-height: min(max(1.2vw), 1.2rem)
+				color: $gray
+				transition: all ease .7s
+				&:hover
+					color: $blue
+		li.nav__item_active
+			a
+				color: $blue
+
+.menu-button-links
+	margin: 0
+
+.menu-button-links button
+	margin: 0
+	padding: 0
+	background: none
+	border: none
+	position: relative
+	z-index: 100
+
+
+.menu-button-links [role="menu"]
+	margin: 0
+	padding: 5vw
+	position: fixed
+	background-color: $blue
+	top: 150px
+	width: 100vw
+	height: calc(70vh - 150px + 7vw)
+	left: 0
+	display: flex
+	flex-direction: column
+	justify-content: space-between
+	align-items: center
+	transition: all ease .7s
+	transform: translateY(0)
+
+.menu-button-links [role="menuitem"],
+.menu-button-links [role="separator"]
+	margin: 0
+	padding: 0
+	color: $white
+	text-transform: uppercase
+	font-size: min(max(4vw), 2rem)
+	line-height: min(max(4vw), 2.4rem)
+
+
+//.menu-button-links [role="separator"]
+	padding-top: 3px
+	background-image: url("../images/separator.svg")
+	background-position: center
+	background-repeat: repeat-x
+
+//.menu-button-links button svg.down
+	padding-left: 0.125em
+	fill: currentcolor
+	stroke: currentcolor
+
+//.menu-button-links button[aria-expanded="true"] svg.down
+	//transform: rotate(180deg)
+
+/* focus styling */
+
+.menu-button-links button:hover,
+.menu-button-links button:focus,
+.menu-button-links button[aria-expanded="true"]
+	padding: 0
+	color: $gray
+	margin: 0
+
+.menu-button-links [role="menuitem"]:focus
+	padding: 0
+	margin: 0
+
+
+[aria-expanded="true"] + [role="menu"]
+	opacity: 1
+	visibility: visible
+
+
+[aria-expanded="false"] + [role="menu"]
+	opacity: 0
+	visibility: hidden
+	transform: translateY(5vw)
+
+
+header.sticky .wrapper .menu-button-links [role="menu"]
+	top: 100px
+
+
+@media only screen and (max-height: 720px)
+	.menu-button-links [role="menuitem"]
+		font-size: min(max(3vw), 2rem)
+		line-height: min(max(3vw), 2.4rem)
+
+	[role="menu"]
+		height: 100vh !important
+		width: 100vw
+		top: 0 !important
+		left: 0
+
+@media only screen and (max-width: 375px) and (orientation: portrait)
+	.menu-button-links [role="menuitem"]
+		font-size: 7vw
+		line-height: 7vw
+	[role="menu"]
+		padding: 10vw 5vw !important

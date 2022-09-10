@@ -1,0 +1,33 @@
+#vermieten-verkaufen
+  section.makler
+    background: $white
+    text-align: center
+    margin: 0 auto
+    //@include ptop
+    @include mbottom
+
+    p
+      width: 80%
+      margin: 0 auto
+
+  ul#warum
+    width: 40%
+    margin: 0 auto
+    @include mbottom
+    li
+      margin-top: 3rem
+      &::before
+        content: ''
+        width: 7px
+        height: 7px
+        display: block
+        border-radius: 1rem
+        background: $blue
+        position: absolute
+        left: 50%
+        margin-top: -1rem
+
+  .contact
+    @include ptop
+    width: 60%
+    margin: 0 auto

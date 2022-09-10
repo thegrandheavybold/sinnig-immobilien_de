@@ -1,0 +1,56 @@
+section.anfrage_teaser
+  background: $gray_light
+  @include ptop
+  @include pbottom
+
+  .wrapper
+
+    .item_01
+      grid-column: 1/-1
+
+    .item_02
+      grid-column: 1/6
+      grid-row: 2/3
+
+      picture
+        img
+          height: 500px
+          //max-width: 375px
+          //max-height: 385px
+
+
+    .item_03
+      grid-column: 6/-1
+      grid-row: 2/3
+
+
+    .item_04
+      grid-column: 7/-1
+      grid-row: 2/3
+      align-self: flex-end
+
+      button
+        margin-top: 2rem
+
+
+    @media only screen and (max-width: 940px)
+
+      .item_02
+        grid-column: 1/-1
+        grid-row: 2
+
+        picture
+          img
+            //max-width: 375px
+            max-height: 385px
+
+      .item_03
+        grid-column: 1/-1
+        grid-row: 3
+
+      .item_04
+        grid-column: 1/-1
+        grid-row: 4
+
+        button
+          margin-bottom: 2rem

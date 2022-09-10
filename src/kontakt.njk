@@ -1,0 +1,116 @@
+---
+title: Kontakt
+
+eleventyNavigation:
+  key: Kontakt
+  order: 7
+
+layout: layout/base.njk
+---
+<section class="hero lax">
+
+  {% picture "sinnig-immobilien-in-essen.jpg", "Sinnig-Immobilien"%}
+
+</section><!-- .hero -->
+
+<section class="opener ctr">
+
+  <div class="wrapper">
+    <h2 data="fade-up">Kontakt</h2>
+    <p data="fade-up delay">
+      Wenn Sie sich für eine Immobilie interessieren, verkaufen oder vermieten möchten, sprechen Sie uns einfach unverbindlich an. Gemeinsam finden wir eine individuelle Lösung, die auf Sie und Ihre Immobilie zugeschnitten ist!
+    </p>
+
+    <h2 class="spr_t" data="fade-up">Wir freuen uns auf Ihren <strong>Anruf</strong></h2>
+    <a class="phone link" href="tel:02016158888" data="fade-up delay">(02 01) 6 15 88 88</a>
+
+  </div><!-- .wrapper -->
+
+</section>
+
+
+<section class="contact_form">
+
+  <div class="wrapper">
+
+    <h2 class="ctr" data="fade-up">Oder <strong>schreiben</strong> Sie uns</h2>
+
+    <form class="" name="anfrage" method="POST" data-netlify="true">
+
+      <fieldset class="radio" data="fade-up">
+        <p>Für Eigentümer:*</p>
+        <label for="Vermieten-Verkaufen">
+          <input type="radio" id="verkaufen" name="Vermieten-Verkaufen" value="Verkaufen">
+          <span class="bl">Ich plane zu Verkaufen</span>
+        </label>
+        <label for="Vermieten-Verkaufen">
+          <input type="radio" id="vermieten" name="Vermieten-Verkaufen" value="Vermieten">
+          <span class="bl">Ich plane zu Vermieten</span>
+        </label>
+      </fieldset>
+
+      <br><br>
+
+      <fieldset class="client_contact" data="fade-up delay">
+
+        <label for="Name">Name*
+          <input type="text" id="name" name="Name" autofocus required/>
+        </label>
+
+        <label for="Email">E-Mail-Adresse*
+          <input type="email" id="email" name="Email" required/>
+        </label>
+
+        <label for="Telefon">Telefon*
+          <input type="tel" id="phone" name="Telefon" pattern="[0-9]" required/>
+        </label>
+
+      </fieldset>
+
+
+      <fieldset class="message" data="fade-up">
+
+        <label for="message">Nachricht
+          <textarea id="message" name="message"></textarea>
+        </label>
+
+      </fieldset>
+
+      <fieldset class="dsgvo" data="fade-up delay">
+
+        <label for="DSGVO">
+          <input type="radio" id="dsgvo" name="DSGVO" value="Datenschutz" required>
+          Ja, ich habe die <a class="link" href="/datenschutz" target="_self">Datenschutzerklärung</a> zur Kenntnis genommen und bin damit einverstanden, dass die von mir angegebenen Daten elektronisch erhoben und gespeichert werden. Meine Daten werden dabei nur streng zweckgebunden zur Bearbeitung und Beantwortung meiner Anfrage benutzt. Mit dem Absenden des Kontaktformulars erkläre ich mich mit der Verarbeitung einverstanden.
+        </label>
+
+      </fieldset>
+
+      <span class="submit" data="fade-up">
+
+        <p>* Pflichtfelder</p>
+
+        <button class="btn btn_red" type="submit">Senden</button>
+
+      </span>
+
+    </form>
+
+  </div><!-- .wrapper -->
+
+</section>
+
+<section class="anfahrt ctr">
+
+  <div class="wrapper">
+
+    <h2 data="fade-up">So können Sie uns <strong>finden</strong></h2>
+
+  </div><!-- .wrapper -->
+
+  <div class="directions">
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d79668.33069401802!2d7.012426053769611!3d51.39137992603734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m0!4m3!3m2!1d51.391547499999994!2d7.0824244!5e0!3m2!1sde!2sde!4v1662042221823!5m2!1sde!2sde" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+  </div>
+
+</section>

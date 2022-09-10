@@ -1,0 +1,95 @@
+#mietverwaltung
+
+  .greetings
+    display: flex
+    width: 100%
+    justify-content: center
+
+  section.mietverwaltung
+    background: $white
+
+    .wrapper
+
+      .item_01
+        grid-column: 1/-1
+
+      .item_02
+        grid-column: 1/6
+        grid-row: 2/4
+        picture
+          img
+            max-height: 415px
+
+      .item_03
+        grid-column: 6/11
+
+      .item_04
+        grid-column: 7/-1
+
+      @media only screen and (max-width: 940px)
+        .item_02
+          grid-column: 1/-1
+
+        .item_03
+          grid-column: 2/-1
+
+        .item_04
+          grid-column: 3/-1
+
+      @media only screen and (max-width: 420px)
+        .item_03
+          grid-column: 1/-1
+
+        .item_04
+          grid-column: 1/-1
+
+  section.hausverwaltung
+    background: $white
+    @include ptop
+    @include pbottom
+
+    .wrapper
+
+      .item_01
+        grid-column: 1/-1
+
+      .item_02
+        grid-column: 1/7
+
+
+      .item_03
+        grid-column: 7/-1
+        //grid-row: 2/4
+        picture
+          img
+            max-height: 320px
+
+      .item_04
+        grid-column: 7/-1
+        margin: 1.5rem 0 0
+
+
+      .item_05
+        grid-column: 1/7
+        picture
+          img
+            max-height: 320px
+
+      .item_06
+        grid-column: 7/-1
+
+      @media only screen and (max-width: 940px)
+
+        .item_03, .item_05
+          grid-column: 1/-1
+
+        .item_04
+          grid-column: 1/-1
+          justify-self: flex-end
+
+        .item_06
+          grid-column: 2/-1
+
+      @media only screen and (max-width: 420px)
+        .item_06, .item_02
+          grid-column: 1/-1

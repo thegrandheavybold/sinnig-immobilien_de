@@ -1,0 +1,63 @@
+form
+  display: flex
+  //flex-direction: column
+  flex-wrap: wrap
+  //width: 63%
+  margin: 0 auto
+  position: relative
+  justify-content: space-between
+  @include mbottom
+  @include ptop
+
+  fieldset
+    padding: 0
+    border: none
+    width: 100%
+    display: flex
+    justify-content: space-between
+    flex-wrap: wrap
+
+  label
+    color: $gray
+    outline: none
+    margin-bottom: 1.5rem
+    a.link::before
+      height: 2px
+
+  input, textarea, select
+    border: solid 2px $blue
+    padding: .5rem
+    //width: 50%
+    transition: all ease .7s
+    outline: none
+    margin-top: .25rem
+
+  fieldset.client_contact
+    label
+      display: flex
+      flex-direction: column
+      width: 48%
+    label[for="Name"]
+      width: 100%
+
+  fieldset.radio
+    flex-direction: column
+    p
+      margin: 0 0 .1rem 0
+    label
+      margin-bottom: .5rem
+
+
+  fieldset.message
+    label
+      display: flex
+      flex-direction: column
+      width: 100%
+    textarea
+      min-height: 160px
+
+  span.submit
+    display: flex
+    justify-content: space-between
+    color: $gray
+    width: 100%

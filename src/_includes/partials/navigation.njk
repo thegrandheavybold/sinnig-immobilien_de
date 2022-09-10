@@ -1,0 +1,17 @@
+<nav class="menu-button-links">
+  <button type="button" id="menubutton" aria-haspopup="true" aria-controls="menu" aria-expanded="false">
+
+    <div class="hamburger">
+              <span></span>
+            </div>
+
+  </button>
+
+
+  <ul id="menu" role="menu" aria-labelledby="menubutton" class="nav">
+      {%- for entry in collections.all | eleventyNavigation %}
+        <li role="none" class="nav__item{% if entry.url == page.url %} nav__item_active{% endif %}"><a role="menuitem" href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+      {%- endfor %}
+  </ul>
+
+</nav><!-- .menu-button-links -->
