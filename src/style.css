@@ -1006,7 +1006,6 @@ footer ul.legal li a.link::before {
   height: 70vh;
   overflow: hidden;
   margin: 150px 0 0;
-  transition: all ease 0.7s;
 }
 .hero picture img {
   object-fit: cover;
