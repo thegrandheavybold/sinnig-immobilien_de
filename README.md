@@ -1,2 +1,2 @@
 # sinnig-immobilien
-Website Sinnig Immobilien GmbH
+Sinnig Immobilien GmbH website < 11ty & netlify
