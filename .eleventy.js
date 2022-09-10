@@ -9,10 +9,14 @@ module.exports = function(eleventyConfig) {
 
   //11ty Navigation Plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  
 
-  // A responsive image helper using Netlify Large Media - image transformation
+
+  // A responsive image helper using Netlify Large Media - image transformation > article images
   eleventyConfig.addShortcode("picture", require("./src/js/picture.js"));
+
+  // A responsive image helper using Netlify Large Media - image transformation > hero images
+  eleventyConfig.addShortcode("hero", require("./src/js/hero.js"));
+
 
   // date filter (localized)
   eleventyConfig.addNunjucksFilter("date", function (date, format, locale) {
