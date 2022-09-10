@@ -1022,10 +1022,6 @@ footer ul.legal li a.link::before {
   z-index: -1 !important;
 }
 
-header.sticky > .hero {
-  margin: 100px 0 0;
-}
-
 /*** Opener */
 section.opener {
   background: #ffffff;
