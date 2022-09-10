@@ -1005,7 +1005,8 @@ footer ul.legal li a.link::before {
   width: 100vw;
   height: 70vh;
   overflow: hidden;
-  margin: 7vw 0 0;
+  margin: 150px 0 0;
+  transition: all ease 0.7s;
 }
 .hero picture img {
   object-fit: cover;
@@ -1019,6 +1020,10 @@ footer ul.legal li a.link::before {
 .lax {
   position: relative;
   z-index: -1 !important;
+}
+
+header.sticky > .hero {
+  margin: 100px 0 0;
 }
 
 /*** Opener */
