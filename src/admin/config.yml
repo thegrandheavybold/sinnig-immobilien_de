@@ -5,7 +5,7 @@ backend:
 media_folder: "dist/assets/img/uploads"
 public_folder: "/assets/img/uploads"
 
-logo_url: "dist/assets/img/Thomas_Sinnig_logo.svg"
+logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
 
 collections:
   - name: "angebote"
