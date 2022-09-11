@@ -18,6 +18,12 @@ module.exports = function(eleventyConfig) {
   // A responsive image helper using Netlify Large Media - image transformation > hero images
   eleventyConfig.addShortcode("hero", require("./src/js/hero.js"));
 
+  // A responsive image helper using Netlify Large Media - image transformation > hero images
+  eleventyConfig.addShortcode("heroForPosts", require("./src/js/heroForPosts.js"));
+
+  // A responsive image helper using Netlify Large Media - image transformation > hero images
+  eleventyConfig.addShortcode("pictureForPosts", require("./src/js/pictureForPosts.js"));
+
 
   // date filter (localized)
   eleventyConfig.addNunjucksFilter("date", function (date, format, locale) {
