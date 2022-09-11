@@ -12,6 +12,7 @@ collections:
     label: "Angebote"
     folder: "angebote"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Title", name: "title", widget: "string"}
@@ -24,6 +25,7 @@ collections:
     label: "Referenzen"
     folder: "referenzen"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Title", name: "title", widget: "string"}
