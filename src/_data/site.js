@@ -1,5 +1,5 @@
 module.exports = {
-  url: "https://sinnig-immobilien.de/",
+  url: "https://sinnig-immobilien.netlify.app",
   baseUrl: "/",
   name: "Sinnig Immobilien",
   author: "Maximilian Sinnig",
