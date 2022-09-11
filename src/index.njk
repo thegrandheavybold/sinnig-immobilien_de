@@ -39,4 +39,10 @@ layout: layout/base.njk
 
 <section class="posts">
 
+  <ul>
+{%- for post in angebote -%}
+  <li>{{ post.data.title }}</li>
+{%- endfor -%}
+</ul>
+
 </section>
