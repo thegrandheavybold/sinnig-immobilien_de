@@ -40,7 +40,7 @@ layout: layout/base.njk
 <section class="posts">
 
   <ul>
-{%- for post in angebote -%}
+{%- for post in collections.angebote -%}
   <li>{{ post.data.title }}</li>
 {%- endfor -%}
 </ul>
