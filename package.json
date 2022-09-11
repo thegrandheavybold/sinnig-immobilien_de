@@ -1,9 +1,9 @@
 {
-  "name": "blank_page__dev_kit",
-  "description": "",
+  "name": "Sinnig Immobilien",
+  "description": "Website",
   "keywords": [],
   "version": "1.0.0",
-  "author": "",
+  "author": "TheGrandHeavyBold Studio - Christian Kriegsheim",
   "license": "ISC",
   "main": ".eleventy.js",
   "scripts": {
