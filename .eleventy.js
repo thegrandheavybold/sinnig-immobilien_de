@@ -7,7 +7,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js/main-min.js");
   eleventyConfig.addPassthroughCopy("./src/assets");
   eleventyConfig.addPassthroughCopy("./src/style.css");
-  eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy("_static");
+  eleventyConfig.addPassthroughCopy("_posts");
 
   //11ty Navigation Plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin);

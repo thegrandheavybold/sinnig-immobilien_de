@@ -37,12 +37,20 @@ layout: layout/base.njk
 
 </section>
 
-<section class="posts">
+<section class="angebote_teaser">
 
-  <ul>
-    {%- for post in angebote -%}
-      <li><a href=" {{ post.url | url }}">{{ post.data.title }}</a></li>
-    {%- endfor -%}
-  </ul>
+  <div class="wrapper">
+
+    <ul>
+      {%- for post in collections.angebote -%}
+        <li>
+          <picture>
+            {{ post.data.featuredImage }}
+          </picture>
+          <a href=" {{ post.url | url }}">{{ post.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+
+  </div><!-- .wrapper -->
 
 </section>

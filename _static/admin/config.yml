@@ -1,0 +1,35 @@
+backend:
+  name: git-gateway
+  branch: main
+  open_authoring: true
+
+media_folder: "_static/uploads"
+public_folder: "uploads"
+
+logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
+
+collections:
+  - name: "angebote"
+    label: "Angebote"
+    folder: "_posts/angebote"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+  - name: "referenzen"
+    label: "Referenzen"
+    folder: "_posts/referenzen"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
