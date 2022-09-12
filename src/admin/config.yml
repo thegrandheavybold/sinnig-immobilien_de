@@ -3,7 +3,7 @@ backend:
   branch: main
 
 media_folder: "src/assets/img/uploads"
-public_folder: "uploads"
+public_folder: "src/assets/img/uploads"
 
 logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
 
@@ -11,7 +11,7 @@ collections:
   - name: "angebote"
     label: "Angebote"
     folder: "src/angebote"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
@@ -24,7 +24,7 @@ collections:
   - name: "referenzen"
     label: "Referenzen"
     folder: "src/referenzen"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
