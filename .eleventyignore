@@ -1,2 +1,2 @@
 .eleventyignore
-admin
+admin/*
