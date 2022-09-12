@@ -6,10 +6,10 @@ layout: layout/base.njk
 <section class="hero lax">
 
   <picture>
-    <source srcset="{{ featuredImage }}" media="(min-width: 769px)">
-    <source srcset="{{ featuredImage }}?nf_resize=fit&w=1024" media="(min-width: 481px)">
+    <source srcset="{{ featuredImage | url }}" media="(min-width: 769px)">
+    <source srcset="{{ featuredImage | url }}?nf_resize=fit&w=1024" media="(min-width: 481px)">
 
-    <img src="{{ featuredImage }}?nf_resize=fit&w=768" alt="{{ featuredImage }}" />
+    <img src="{{ featuredImage | url }}?nf_resize=fit&w=768" alt="{{ featuredImage }}" />
   </picture>
 
 </section><!-- .hero -->
