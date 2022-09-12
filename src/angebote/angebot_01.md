@@ -1,35 +1,37 @@
 ---
-title: Angebot
+title: Wenn ich den See seh’…. Eigentumswohnung am Baldeneysee
 description: Das ist das erste Angebote
 date: 2022-09-11
-featuredImage: /assets/img/uploads/sinnig-immobilien-terasse.jpg
+featuredImage: /assets/img/uploads/baldeneysee.jpg
 ---
-All right! Give it a try. Dude.
-
-![](/assets/img/uploads/baldeneysee.jpg)
 
 
+* Wohnfläche: ca. 127,97 m²
+* Zimmeranzahl: 3
+* Kaufpreis: EUR 714.900,00
 
-* Wohnfläche: ca. 448,00 m²
-* Gewerbefläche: ca. 106,83 m²
-* Zimmer: 18
-* Kaufpreis: EUR 849.900,00
+Die hier angebotene Eigentumswohnung befindet sich zusammen mit 6 weiteren Wohneinheiten in einem 2014 erbauten Mehrfamilienhaus, in einer der begehrtesten Wohnlagen von Essen – direkt am Baldeneysee.
 
-Die Wohnung befindet sich im Dachgeschoss eines Mehrfamilienhauses in Essen-Katernberg und wird derzeit noch für Sie renoviert.
+Schon während der Anfahrt steigt Ihnen der Geruch der frischen Seeluft in die Nase und Sie werden feststellen, dass die Nostalgie des letzten Sommerurlaubs langsam aber sicher schwindet. Doch was genau zieht die Menschen an den Baldeneysee, wenn Sie Entspannung und Erholung suchen? Ist es das Spiel der Farben zwischen Blautönen und grünem Ufer? Ist es das gute Gleichgeweicht zwischen Naturbelassenheit und den rund um den See verteilten, einladenden Einkehrmöglichkeiten ? Oder doch der Blick, der ins Weite schweifen kann? Es ist wohl von Allem etwas. Mit dem Seebogen wurde in Essen vielleicht eines der letzten Ufergrundstück des Baldeneysees zu einem Wohnquartier entwickelt – und das mit Erfolg!
 
-Dieses gepflegte und fortlaufend instand gehaltene Mehrfamilienhaus befindet sich in einer ruhigen Seitenstraße, ca. 10 Gehminuten vom Hauptbahnhof entfernt und verfügt über eine Wohnfläche von ca. 448,00 m², die sich auf vier Wohnungen (jeweils ca. 64,00 m²) und sechs Apartments (jeweils ca. 32,00 m²) verteilt.
+All das, was die Menschen an den See zieht, liegt hier praktisch vor Ihrer Haustür… Die exklusive Lage ist zwar beeindruckend, aber noch lange nicht das Einzige, was Ihnen hier geboten wird: Die barrierefreie Grundrissgestaltung sowie die vorteilhafte Aufteilung machen diese Wohnung Interessant für ausnahmslos jede Person, selbst bis ins hohe Alter. Ein Aufzug ermöglicht es Ihnen zudem auch bequem von Ihrem Tiefgaragenstellplatz ins 2. Obergeschoss des Hauses zu gelangen – bis zur Wohnungseingangstür ist es jetzt nicht mehr weit.
 
-Die vier 64,00 m² großen Wohnungen verfügen jeweils über Küche, Diele, Tageslichtbadezimmer, Wohnzimmer, Schlafzimmer und Kinderzimmer, sowie ca. 5,20 m große, südöstlich ausgerichtete Balkone. Besonders hervorzuheben sind die unkomplizierten Grundrisse und die gefragten Wohnungsgrößen, die Ihnen bei der Neuvermietung immer in die Karten spielen wird.
+Die Wohnung selbst setzt sich zusammen aus Wohn- Ess- Kochbereich, Diele, Badezimmer, Schlafzimmer, Arbeits-/Gäste/- oder Kinderzimmer sowie einem Gäste-WC mit Anschlüssen für Waschmaschine und Trockner. In allen Wohnräumen wurde ein hochwertiger Echtholz – Parkettboden (Weitzer Parkett Österreich) verlegt. Die Wandgestaltung ist in einem schlichten, zeitlosen Weiß gehalten. Die Wände sind mit Malervlies versehen worden. Das Highlight, oder anders gesagt: Das Herz der Wohnung ist der ca. 56,00 m² große Wohn- Ess und Kochbereich mit Zugang zu Ihrer ca. 30,00 m² großen Terrasse mit direktem, unverbaubaren, Blick auf den Baldeneysee. Damit der Einzug bequemer wird und die endlosen Lieferzeiten Sie nicht in den Wahnsinn treiben, wartet bereits eine hochwertige Einbauküche inklusive sämtlicher Elektrogeräten (Kühl- Gefrierkombi, Induktionskochfeld, Geschirrspüler und Backofen) namhafter Hersteller auf Sie.
 
-Mindestens genau so gefragt sind Apartments in dieser Lage. Aktuell sind 5 von 6 dieser Einheiten vermietet. Das leerstehende Apartment wartet bereits auf Ihr Konzept – vielleicht denken Sie auch schon an eine vollmöblierte Vermietung an Studenten oder Pendler? Sie entscheiden!
+Die Terrasse verfügt über Strom- und Wasseranschlüsse, eine neuwertige, elektrisch ausfahrbare Markise sowie über eine abschließbare Abstellkammer für Klappstühle, Gartenschläuche usw.
 
-Zusammengefasst:
+Das Tageslichtbadezimmer ist mit großformatigen, grauen Bodenfliesen gefliest worden und verfügt über eine Badewanne, eine walk – in Dusche, einem Wand-WC sowie einem hochwertigen Aufsatzwaschtisch mit Unterschrank. Das Gäste – WC verfügt über ein Wand – WC, einen Aufsatzwaschtisch mit Unterschrank, sowie über Anschlüsse für Waschmaschine und Trockner.
 
-* 10 Wohnungen (9 davon vermietet)
-* 2 Garagen (beide vermietet) 
-* Gepflegt und fortlaufend instand gehalten 
-* Gute Mieterstruktur
-* Alle Betriebskosten umlagefähig
-* Jahresnettokaltmiete IST 35.556,00 € / SOLL 38.556,00 €
+Abgerundet wird das Raumangebot durch das ca. 16,11 m² große Schlafzimmer und einem ca. 14,68 m² großen Kinder-/ Arbeitszimmer.
 
-Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 134519864
+Eine durchgehende Deckenhöhe von ca. 2,70 m, Wohnungsinnentüren mit Übermaß sowie bodentiefe Fenster in allen Räumen schaffen ein grandioses Raumgefühl – besser lassen sich 128,00 m² Wohnfläche nicht verwirklichen.
+
+Zusammenfassend kann man sagen, dass Sie hier eine Wohnung mit einem hohen Ausstattungsstandard und durchdachter Gestaltung vorfinden werden, bei der Sie theoretisch nur noch Bilder an die Wand hängen und Ihre Liege Richtung Sonne drehen müssen. Na, sind Sie neugierig geworden?!
+
+Weitere Details und Fotos finden Sie bei  Immobilienscout24 unter Scout-ID: 135505172
+
+![](/assets/img/uploads/20220803_145853-768x576.jpg)
+
+![](/assets/img/uploads/20220803_151252-768x576.jpg)
+
+![](/assets/img/uploads/20220803_152529-768x576.jpg)
