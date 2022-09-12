@@ -2,10 +2,17 @@ backend:
   name: git-gateway
   branch: main
 
+publish_mode: editorial_workflow
+
 media_folder: "src/assets/img/uploads"
+  config:
+    multiple: true
+
 public_folder: "/assets/img/uploads"
 
+
 logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
+
 
 collections:
   - name: "angebote"
