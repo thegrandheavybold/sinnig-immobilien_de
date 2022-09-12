@@ -3,7 +3,7 @@ backend:
   branch: main
 
 media_folder: "src/assets/img/uploads"
-public_folder: "uploads"
+public_folder: "/assets/img/uploads"
 
 logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
 
