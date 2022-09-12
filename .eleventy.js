@@ -11,6 +11,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/angebote");
   eleventyConfig.addPassthroughCopy("./src/referenzen");
 
+  eleventyConfig.ignores.add("./src/admin");
+
   //11ty Navigation Plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
