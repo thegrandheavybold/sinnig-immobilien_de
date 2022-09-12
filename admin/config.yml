@@ -11,7 +11,7 @@ logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
 collections:
   - name: "angebote"
     label: "Angebote"
-    folder: "_posts/angebote"
+    folder: "angebote"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
@@ -24,7 +24,7 @@ collections:
 
   - name: "referenzen"
     label: "Referenzen"
-    folder: "_posts/referenzen"
+    folder: "referenzen"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
