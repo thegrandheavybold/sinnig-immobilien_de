@@ -3,7 +3,7 @@ backend:
   branch: main
   open_authoring: true
 
-media_folder: "_static/uploads"
+media_folder: "dist/assets/img/uploads"
 public_folder: "uploads"
 
 logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
