@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "src/assets/img/uploads"
-public_folder: "src/assets/img/uploads"
+media_folder: "src/assets/img/"
+public_folder: "uploads"
 
 logo_url: "/assets/img/Thomas_Sinnig_logo.svg"
 
