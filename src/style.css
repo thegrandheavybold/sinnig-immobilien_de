@@ -393,6 +393,7 @@ template {
 /*** inViewport */ /* inViewport */
 [data=fade-up], [data="fade-up delay"] {
   transition: all ease 2s;
+  transition-property: transform;
   opacity: 0;
   transform: translateY(5vw);
 }
