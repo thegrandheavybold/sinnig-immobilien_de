@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: main
-  open_authoring: true
 
 media_folder: "dist/assets/img/uploads"
 public_folder: "uploads"
