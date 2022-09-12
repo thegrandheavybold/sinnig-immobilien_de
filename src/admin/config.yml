@@ -4,8 +4,6 @@ backend:
 
 
 media_folder: "src/assets/img/uploads"
-  config:
-    multiple: true
 
 public_folder: "/assets/img/uploads"
 
