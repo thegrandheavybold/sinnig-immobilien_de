@@ -1,0 +1,39 @@
+section.posts_teaser
+  @include ptop
+  @include pbottom
+  background: $gray_light
+
+  h3
+    margin-bottom: 2rem
+    text-align: center
+
+  ul.posts_teaser_list
+    display: flex
+    //flex-direction: column
+    flex-wrap: wrap
+    li
+      background: $white
+      display: flex
+      flex-direction: column
+      flex-wrap: nowrap
+      justify-content: space-between
+      max-width: 310px
+      width: 100%
+      height: 450px
+      padding: 1rem
+      box-shadow: 2px 5px 10px rgba($blue, .5)
+      margin-right: 2rem
+      &:last-of-type
+        margin-right: 0
+
+      h6
+        height: 80px
+      picture
+        img
+          width: 100%
+          height: 230px
+
+#referenzen, #angebote
+  section.posts_teaser
+    padding-top: 0
+    background: $white

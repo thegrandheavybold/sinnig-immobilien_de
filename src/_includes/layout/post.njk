@@ -16,11 +16,17 @@ layout: layout/base.njk
 
 <section class="opener">
 
-  <div class="wrapper">
-    <h2 data="fade-up">{{title}}</h2>
-    <p data="fade-up delay">
-      {{ content | safe }}
-    </p>
-  </div><!-- .wrapper -->
+  <article class="posts">
+
+    <div class="wrapper">
+
+      <h2 data="fade-up">{{title}}</h2>
+      <p data="fade-up delay">
+        {{ content | safe }}
+      </p>
+
+    </div><!-- .wrapper -->
+
+  </article><!-- article -->
 
 </section>

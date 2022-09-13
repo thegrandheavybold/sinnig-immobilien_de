@@ -37,20 +37,4 @@ layout: layout/base.njk
 
 </section>
 
-<section class="angebote_teaser">
-
-  <div class="wrapper">
-
-    <ul>
-      {%- for post in collections.angebote -%}
-        <li>
-          <picture>
-            {{ post.data.featuredImage }}
-          </picture>
-          <a href=" {{ post.url | url }}">{{ post.data.title }}</a></li>
-      {%- endfor -%}
-    </ul>
-
-  </div><!-- .wrapper -->
-
-</section>
+{%- include "partials/angebote_teaser.njk" -%}

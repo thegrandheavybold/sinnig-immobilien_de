@@ -25,11 +25,37 @@ layout: layout/base.njk
 
 </section>
 
+<section class="posts_teaser">
+
+  <div class="wrapper">
+
+    <ul class="posts_teaser_list">
+      {%- for post in collections.referenzen -%}
+        <li class="posts_teaser_list__items" data="fade-up delay">
+          <h6>{{ post.data.title }}</h6>
+
+          <picture>
+            <source srcset="{{ post.data.featuredImage }}" media="(min-width: 1025px)">
+            <source srcset="{{ post.data.featuredImage }}?nf_resize=fit&w=1024" media="(min-width: 769px)">
+            <source srcset="{{ post.data.featuredImage }}?nf_resize=fit&w=768" media="(min-width: 481px)">
+
+            <img src="{{ post.data.featuredImage }}?nf_resize=fit&w=480" alt="{{ post.data.featuredImage | title }}" />
+          </picture>
+
+          <button class="btn" type="button" name="button" onclick="location.href='{{ post.url | url }}'">Mehr erfahren</button>
+        </li>
+      {%- endfor -%}
+    </ul>
+
+  </div><!-- .wrapper -->
+
+</section>
+
 <section class="cta ctr">
 
   <div class="wrapper">
 
-    <h2 data="fade-up"><strong>Unsere aktuellen <strong>Angebote</strong></h2>
+    <h2 data="fade-up">Unsere aktuellen <strong>Angebote</strong></h2>
     <button class="btn" type="button" name="button" onclick="location.href='/angebote'" data="fade-up delay">Angebote ansehen</button>
 
   </div><!-- .wrapper -->
