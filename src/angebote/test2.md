@@ -4,10 +4,8 @@ slug: Essen-Überruhr
 title: Kapitalanlage? Selbstnutzung? Vielleicht sogar beides? – Sie haben die
   Wahl! Essen-Überruhr
 date: 2022-09-12T13:12:00.826Z
-featuredImage: /assets/img/uploads/baldeneysee.jpg
+featuredImage: /assets/img/uploads/20220412_102743-scaled.jpg
 ---
-
-
 * Wohnfläche: ca. 75,48 m²
 * Gewerbefläche: ca. 106,83 m²
 * Grundstück: ca. 508 m²
@@ -18,3 +16,9 @@ Dieses Wohn- und Geschäftshaus befindet sich auf einem ca. 500,00 m² großen G
 Auf Wunsch erhalten Sie weitere Fotos und nähere Details!
 
 Weitere Details und Fotos finden Sie bei  Immobilienscout24 unter Scout-ID: 134274941
+
+![](/assets/img/uploads/20220412_102743-768x576.jpg)
+
+![](/assets/img/uploads/20220412_102811-768x576.jpg)
+
+![](/assets/img/uploads/20220412_104009-768x576.jpg)
