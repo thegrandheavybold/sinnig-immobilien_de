@@ -9,7 +9,7 @@ section.posts_teaser
 
   ul.posts_teaser_list
     display: flex
-    //flex-direction: column
+    justify-content: space-between
     flex-wrap: wrap
     li
       background: $white
@@ -17,13 +17,13 @@ section.posts_teaser
       flex-direction: column
       flex-wrap: nowrap
       justify-content: space-between
-      max-width: 300px
+      max-width: 290px
       width: 100%
       height: 450px
       padding: 1rem
       box-shadow: 2px 5px 10px rgba($blue, .5)
-      margin-right: 1rem
-      margin-bottom: 1rem
+      //margin-right: 1rem
+      margin-bottom: 2rem
       &:last-of-type
         margin-right: 0
 
@@ -33,6 +33,18 @@ section.posts_teaser
         img
           width: 100%
           height: 230px
+
+  @media only screen and (min-width: 691px) and (max-width: 1280px)
+    ul.posts_teaser_list
+      justify-content: center
+      li
+        margin-left: 1rem
+        margin-right: 1rem
+
+  @media only screen and (max-width: 690px)
+    ul.posts_teaser_list
+      justify-content: center
+
 
 #referenzen, #angebote
   section.posts_teaser
