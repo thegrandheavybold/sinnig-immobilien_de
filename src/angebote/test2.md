@@ -1,11 +1,12 @@
 ---
 layout: layout/post.njk
 slug: Essen-Überruhr
-title: Kapitalanlage? Selbstnutzung? Vielleicht sogar beides? – Sie haben die
-  Wahl! Essen-Überruhr
+title: Kapitalanlage? Selbstnutzung? Vielleicht sogar beides?
 date: 2022-09-12T13:12:00.826Z
 featuredImage: /assets/img/uploads/20220412_102743-scaled.jpg
 ---
+### Sie haben die Wahl! Essen-Überruhr
+
 * Wohnfläche: ca. 75,48 m²
 * Gewerbefläche: ca. 106,83 m²
 * Grundstück: ca. 508 m²
