@@ -20,6 +20,9 @@ collections:
     folder: "src/angebote"
     slug: "{{slug}}"
     create: true
+    media_library:
+    config:
+      multiple: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -32,6 +35,9 @@ collections:
     folder: "src/referenzen"
     slug: "{{slug}}"
     create: true
+    media_library:
+    config:
+      multiple: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Slug", name: "slug", widget: "string"}
