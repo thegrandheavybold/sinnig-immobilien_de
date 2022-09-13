@@ -21,8 +21,8 @@ collections:
     slug: "{{slug}}"
     create: true
     media_library:
-    config:
-      multiple: true
+      config:
+        multiple: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Slug", name: "slug", widget: "string"}
@@ -36,8 +36,8 @@ collections:
     slug: "{{slug}}"
     create: true
     media_library:
-    config:
-      multiple: true
+      config:
+        multiple: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layout/post.njk"}
       - {label: "Slug", name: "slug", widget: "string"}
