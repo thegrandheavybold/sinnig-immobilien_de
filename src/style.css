@@ -1325,12 +1325,13 @@ section.posts_teaser ul.posts_teaser_list li {
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: space-between;
-  max-width: 310px;
+  max-width: 300px;
   width: 100%;
   height: 450px;
   padding: 1rem;
   box-shadow: 2px 5px 10px rgba(2, 53, 128, 0.5);
-  margin-right: 2rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
 }
 section.posts_teaser ul.posts_teaser_list li:last-of-type {
   margin-right: 0;
