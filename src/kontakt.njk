@@ -35,7 +35,7 @@ layout: layout/base.njk
 
     <h2 class="ctr" data="fade-up">Oder <strong>schreiben</strong> Sie uns</h2>
 
-    <form class="" name="anfrage" method="POST" data-netlify="true">
+    <form action="/danke/" name="anfrage" method="POST" data-netlify="true">
 
       <fieldset class="radio" data="fade-up">
         <p>Für Eigentümer:*</p>
@@ -54,15 +54,15 @@ layout: layout/base.njk
       <fieldset class="client_contact" data="fade-up delay">
 
         <label for="Name">Name*
-          <input type="text" id="name" name="Name" autofocus required/>
+          <input type="text" id="name" name="Name" placeholder="Nachname" autofocus required/>
         </label>
 
         <label for="Email">E-Mail-Adresse*
-          <input type="email" id="email" name="Email" required/>
+          <input type="email" id="email" name="Email" placeholder="mail@adresse.de" required/>
         </label>
 
         <label for="Telefon">Telefon*
-          <input type="tel" id="phone" name="Telefon" pattern="[0-9]{10,20}" required/>
+          <input type="tel" id="phone" name="Telefon" pattern="[0-9]*" placeholder="0123456789" required/>
         </label>
 
       </fieldset>

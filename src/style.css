@@ -390,6 +390,10 @@ template {
   margin-top: 1.5rem;
 }
 
+.spcr {
+  margin-top: 200px;
+}
+
 /*** inViewport */ /* inViewport */
 [data=fade-up], [data="fade-up delay"] {
   transition: all ease 2s;
@@ -1039,11 +1043,6 @@ section.opener {
   margin-top: -0.5rem;
 }
 
-/*** Impressum */
-section.impressum {
-  text-align: center;
-}
-
 /*** Vermieten & Verkaufen */
 #vermieten-verkaufen section.makler {
   background: #ffffff;
@@ -1361,6 +1360,18 @@ section.posts_teaser ul.posts_teaser_list li picture img {
 #referenzen section.posts_teaser, #angebote section.posts_teaser {
   padding-top: 0;
   background: #ffffff;
+}
+
+/*** Danke successMessage */
+section.danke {
+  background: #ffffff;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+}
+section.danke .successMessage {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 /*** Styles for Site Mietverwaltung */
