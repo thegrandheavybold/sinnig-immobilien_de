@@ -1017,6 +1017,7 @@ footer ul.legal li a.link::before {
 }
 .hero picture img {
   object-fit: cover;
+  object-position: 50% 0;
 }
 .hero .greetings {
   position: absolute;
@@ -1133,6 +1134,7 @@ section.team ul.team_players li picture img {
   height: 200px;
   display: block;
   border-radius: 50%;
+  object-position: 0 0;
 }
 section.team ul.team_players li span {
   text-align: center;
