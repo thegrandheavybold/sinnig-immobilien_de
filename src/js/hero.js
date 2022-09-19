@@ -3,8 +3,7 @@
 module.exports = (ImageName, ImageAlt) => {
   return `<picture>
             <source srcset="/assets/img/${ImageName}" media="(min-width: 769px)">
-            <source srcset="/assets/img/${ImageName}?nf_resize=fit&w=1024" media="(min-width: 481px)">
 
-            <img src="/assets/img/${ImageName}?nf_resize=fit&w=768" alt="${ImageAlt}" />
+            <img src="/assets/img/${ImageName}?nf_resize=fit&w=1024" alt="${ImageAlt}" />
           </picture>`;
 };
