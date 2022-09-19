@@ -1,7 +1,7 @@
 ---
 layout: layout/post.njk
-slug: Eigentumswohnungen Verkauf
-title: Eigentumswohnungen Verkauf
+slug: Verkaufsobjekte
+title: Verkaufsobjekte
 date: 2022-09-13T20:20:52.986Z
 featuredImage: /assets/img/uploads/183de931-a368-40c0-bf77-28cd93a6187f-1346091247.jpg
 ---
