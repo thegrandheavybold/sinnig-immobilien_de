@@ -1,7 +1,7 @@
 ---
 layout: layout/post.njk
-slug: Mietobjekte
-title: Mietobjekte
+slug: Vermietungsobjekte
+title: Vermietungsobjekte
 date: 2022-09-13T20:17:55.287Z
 featuredImage: /assets/img/uploads/cb369e52-63e5-4687-9759-a72fb7c89492-1128030215.jpg
 ---
