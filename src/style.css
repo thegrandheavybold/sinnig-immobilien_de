@@ -944,12 +944,14 @@ button.menu-toggle {
 [aria-expanded=true] + [role=menu] {
   opacity: 1;
   visibility: visible;
+  backface-visibility: hidden;
 }
 
 [aria-expanded=false] + [role=menu] {
   opacity: 0;
   visibility: hidden;
   transform: translateY(5vw);
+  backface-visibility: hidden;
 }
 
 header.sticky .wrapper .menu-button-links [role=menu] {
