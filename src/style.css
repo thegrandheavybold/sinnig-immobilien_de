@@ -958,8 +958,8 @@ header.sticky .wrapper .menu-button-links [role=menu] {
 
 @media only screen and (max-height: 720px) {
   .menu-button-links [role=menuitem] {
-    font-size: min(3vw, 2rem);
-    line-height: min(3vw, 2.4rem);
+    font-size: min(4vw, 3rem);
+    line-height: min(4vw, 3.4rem);
   }
   [role=menu] {
     height: 100vh !important;
@@ -968,7 +968,7 @@ header.sticky .wrapper .menu-button-links [role=menu] {
     left: 0;
   }
 }
-@media only screen and (max-width: 375px) and (orientation: portrait) {
+@media only screen and (max-width: 440px) and (orientation: portrait) {
   .menu-button-links [role=menuitem] {
     font-size: 7vw;
     line-height: 7vw;
