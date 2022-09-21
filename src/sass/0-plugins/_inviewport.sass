@@ -1,9 +1,10 @@
 /* inViewport */
 [data="fade-up"], [data="fade-up delay"]
-  transition: all ease 2s
-  transition-property: transform
+  transition: transform ease 2s, opacity ease 1.5s
+  //transition-property: transform opacity
   opacity: 0
   transform: translateY(5vw)
+
 
 [data="fade-up"].is_inview, [data="fade-up delay"].is_inview
   opacity: 1

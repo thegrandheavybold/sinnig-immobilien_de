@@ -45,7 +45,13 @@ ELs_inViewport.forEach(EL => {
 });
 
 
+//Anfrage Mietverwaltung Form Opener
+var btnAnfrage = document.querySelector("#mietverwaltungAnfrage");
+var formAnfrage = document.querySelector(".mietverwaltung_form");
 
+btnAnfrage.onclick = function(){
+  formAnfrage.classList.toggle("anfrage")
+}
 
 //Vorteile box Click Function
 var container = document.querySelector("#vorteile_box");

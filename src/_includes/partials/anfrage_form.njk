@@ -1,0 +1,82 @@
+<section class="mietverwaltung_form">
+
+  <div class="wrapper">
+
+    <h2 data="fade-up">Ihre Anfrage für Ihr <br>unverbindliches Angebot</h2>
+
+    <form action="/danke/" name="verwaltung" method="POST" data-netlify="true">
+
+      <fieldset class="radio" data="fade-up">
+        <label for="Verwaltung">
+          <input type="radio" id="verwalten" name="Verwaltung" value="Mietverwaltung" required>
+          <span class="bl">Mietverwaltung</span>
+        </label>
+        <label for="Vermieten-Verkaufen">
+          <input type="radio" id="verwalten" name="Verwaltung" value="WEG-Verwaltung">
+          <span class="bl">WEG-Verwaltung</span>
+        </label>
+      </fieldset>
+
+      <br><br>
+
+      <fieldset class="mietverwaltung_anfrage" data="fade-up delay">
+
+        <label for="Adresse">Adresse*
+          <input type="text" id="Adresse" name="Adresse" placeholder="Adresse der zu verwaltenden Immobilie" autofocus required/>
+        </label>
+
+        <label for="Einheiten">Einheiten*
+          <input type="text" id="Einheiten" name="Einheiten" placeholder="Anzahl der Einheiten" required/>
+        </label>
+
+      </fieldset>
+
+      <br><br>
+
+      <fieldset class="client_contact" data="fade-up">
+
+        <label for="Name">Name*
+          <input type="text" id="name" name="Name" placeholder="Nachname" required/>
+        </label>
+
+        <label for="Email">E-Mail-Adresse*
+          <input type="email" id="email" name="Email" placeholder="mail@adresse.de" required/>
+        </label>
+
+        <label for="Telefon">Telefon*
+          <input type="tel" id="phone" name="Telefon" pattern="[0-9]*" placeholder="0123456789" required/>
+        </label>
+
+      </fieldset>
+
+
+      <fieldset class="message" data="fade-up delay">
+
+        <label for="message">Nachricht
+          <textarea id="message" name="message"></textarea>
+        </label>
+
+      </fieldset>
+
+      <fieldset class="dsgvo" data="fade-up">
+
+        <label for="DSGVO">
+          <input type="radio" id="dsgvo" name="DSGVO" value="Datenschutz" required>
+          Ja, ich habe die <a class="link" href="/datenschutz" target="_self">Datenschutzerklärung</a> zur Kenntnis genommen und bin damit einverstanden, dass die von mir angegebenen Daten elektronisch erhoben und gespeichert werden. Meine Daten werden dabei nur streng zweckgebunden zur Bearbeitung und Beantwortung meiner Anfrage benutzt. Mit dem Absenden des Kontaktformulars erkläre ich mich mit der Verarbeitung einverstanden.
+        </label>
+
+      </fieldset>
+
+      <span class="submit" data="fade-up delay">
+
+        <p>* Pflichtfelder</p>
+
+        <button class="btn btn_red" type="submit">Senden</button>
+
+      </span>
+
+    </form>
+
+  </div><!-- .wrapper -->
+
+</section>

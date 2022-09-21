@@ -61,3 +61,14 @@ form
     justify-content: space-between
     color: $gray
     width: 100%
+
+  fieldset.mietverwaltung_anfrage
+    label
+      display: flex
+      flex-direction: column
+      width: 48%
+
+  @media only screen and (max-width: 768px)
+    fieldset.client_contact, fieldset.mietverwaltung_anfrage
+      label
+        width: 100%

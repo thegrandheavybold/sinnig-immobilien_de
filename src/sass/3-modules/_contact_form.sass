@@ -1,4 +1,17 @@
-section.contact_form
+section.contact_form, section.mietverwaltung_form
   background: $white
   @include ptop
   @include pbottom
+
+
+section.mietverwaltung_form
+  visibility: hidden
+  opacity: 0
+  display: none
+
+
+section.mietverwaltung_form
+  &.anfrage
+    display: block
+    opacity: 1
+    visibility: visible

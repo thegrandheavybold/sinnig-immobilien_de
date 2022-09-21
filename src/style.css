@@ -396,8 +396,7 @@ template {
 
 /*** inViewport */ /* inViewport */
 [data=fade-up], [data="fade-up delay"] {
-  transition: all ease 2s;
-  transition-property: transform;
+  transition: transform ease 2s, opacity ease 1.5s;
   opacity: 0;
   transform: translateY(5vw);
 }
@@ -636,6 +635,16 @@ form span.submit {
   justify-content: space-between;
   color: #5a5a5a;
   width: 100%;
+}
+form fieldset.mietverwaltung_anfrage label {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+}
+@media only screen and (max-width: 768px) {
+  form fieldset.client_contact label, form fieldset.mietverwaltung_anfrage label {
+    width: 100%;
+  }
 }
 
 /* Typography Styles*/
@@ -1034,7 +1043,7 @@ footer ul.legal li a.link::before {
 
 @media only screen and (min-width: 1980px) {
   .hero picture img {
-    object-position: 0 -120px;
+    object-position: 0 25%;
   }
 }
 /*** Opener */
@@ -1089,10 +1098,22 @@ section.cta {
 }
 
 /*** section contact form */
-section.contact_form {
+section.contact_form, section.mietverwaltung_form {
   background: #ffffff;
   padding-top: 3vw;
   padding-bottom: 3vw;
+}
+
+section.mietverwaltung_form {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+
+section.mietverwaltung_form.anfrage {
+  display: block;
+  opacity: 1;
+  visibility: visible;
 }
 
 /*** Anfahrt iframe GoogleMap */
