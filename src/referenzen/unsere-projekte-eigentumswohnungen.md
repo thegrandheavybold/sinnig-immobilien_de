@@ -1,7 +1,7 @@
 ---
 layout: layout/post.njk
-slug: Eigentumswohnungen
-title: "Unsere Projekte: Eigentumswohnungen"
+slug: Entwickelte Wohnimmobilien
+title: Entwickelte Wohnimmobilien
 date: 2022-09-13T20:08:37.951Z
 featuredImage: /assets/img/uploads/35648f69-68b0-4e22-8b5b-fe11b2f2eca6-1056418500-768x576-1.jpg
 ---
