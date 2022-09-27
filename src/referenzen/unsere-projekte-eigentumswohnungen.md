@@ -25,6 +25,7 @@ featuredImage: /assets/img/uploads/35648f69-68b0-4e22-8b5b-fe11b2f2eca6-10564185
 
 ![](/assets/img/uploads/screen-shot-2022-09-13-at-22.02.14.png)
 
+<br><br>
 #### Eigentumswohnungen
 
 ![](/assets/img/uploads/35648f69-68b0-4e22-8b5b-fe11b2f2eca6-1056418500-768x576-1.jpg)
