@@ -46,27 +46,32 @@ ELs_inViewport.forEach(EL => {
 
 
 //Anfrage Mietverwaltung Form Opener
-var btnAnfrage = document.querySelector("#mietverwaltungAnfrage");
-var formAnfrage = document.querySelector(".mietverwaltung_form");
+window.onload = function(){
 
-btnAnfrage.onclick = function(){
-  formAnfrage.classList.toggle("anfrage")
-}
+  var btnAnfrage = document.querySelector("#mietverwaltungAnfrage");
+  var formAnfrage = document.querySelector(".mietverwaltung_form");
+
+  btnAnfrage.onclick = function(){
+    formAnfrage.classList.toggle("anfrage")
+  }
+};
+
 
 //Vorteile box Click Function
-var container = document.querySelector("#vorteile_box");
-
-var content = document.querySelector("#vorteile_content");
-var allgemeineContent = content.querySelector(".allgemeine");
-var kaufmaennischeContent = content.querySelector(".kaufmaennische");
-var technischeContent = content.querySelector(".technische");
-
-
-var allgemeineBtn = container.querySelector(".allgemeineBtn");
-var kaufmaennischeBtn = container.querySelector(".kaufmaennischeBtn");
-var technischeBtn = container.querySelector(".technischeBtn");
-
 window.onload = function(){
+  
+  var container = document.querySelector("#vorteile_box");
+
+  var content = document.querySelector("#vorteile_content");
+  var allgemeineContent = content.querySelector(".allgemeine");
+  var kaufmaennischeContent = content.querySelector(".kaufmaennische");
+  var technischeContent = content.querySelector(".technische");
+
+
+  var allgemeineBtn = container.querySelector(".allgemeineBtn");
+  var kaufmaennischeBtn = container.querySelector(".kaufmaennischeBtn");
+  var technischeBtn = container.querySelector(".technischeBtn");
+
   allgemeineBtn.onclick = function(){
     kaufmaennischeBtn.classList.remove("active")
     technischeBtn.classList.remove("active")
