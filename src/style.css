@@ -1146,7 +1146,7 @@ section.team ul.team_players {
   margin: 0 auto;
 }
 section.team ul.team_players li {
-  width: 270px;
+  width: 300px;
   height: auto;
   display: flex;
   align-items: center;
