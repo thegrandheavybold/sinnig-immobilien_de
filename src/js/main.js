@@ -58,8 +58,8 @@ window.onload = function(){
 
 
 //Vorteile box Click Function
-window.onload = function(){
-  
+document.onload = function(){
+
   var container = document.querySelector("#vorteile_box");
 
   var content = document.querySelector("#vorteile_content");
