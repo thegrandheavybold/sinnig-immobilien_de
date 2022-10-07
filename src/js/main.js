@@ -46,7 +46,7 @@ ELs_inViewport.forEach(EL => {
 
 
 //Anfrage Mietverwaltung Form Opener
-window.onload = function(){
+document.onload = function(){
 
   var btnAnfrage = document.querySelector("#mietverwaltungAnfrage");
   var formAnfrage = document.querySelector(".mietverwaltung_form");
