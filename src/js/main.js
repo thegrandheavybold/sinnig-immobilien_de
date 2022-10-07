@@ -66,35 +66,37 @@ var allgemeineBtn = container.querySelector(".allgemeineBtn");
 var kaufmaennischeBtn = container.querySelector(".kaufmaennischeBtn");
 var technischeBtn = container.querySelector(".technischeBtn");
 
+window.onload = function(){
+  allgemeineBtn.onclick = function(){
+    kaufmaennischeBtn.classList.remove("active")
+    technischeBtn.classList.remove("active")
+    this.classList.add("active")
 
-allgemeineBtn.onclick = function(){
-  kaufmaennischeBtn.classList.remove("active")
-  technischeBtn.classList.remove("active")
-  this.classList.add("active")
+    allgemeineContent.classList.add("active")
+    kaufmaennischeContent.classList.remove("active")
+    technischeContent.classList.remove("active")
+  }
 
-  allgemeineContent.classList.add("active")
-  kaufmaennischeContent.classList.remove("active")
-  technischeContent.classList.remove("active")
-}
+  kaufmaennischeBtn.onclick = function(){
+    allgemeineBtn.classList.remove("active")
+    technischeBtn.classList.remove("active")
+    this.classList.add("active")
 
-kaufmaennischeBtn.onclick = function(){
-  allgemeineBtn.classList.remove("active")
-  technischeBtn.classList.remove("active")
-  this.classList.add("active")
+    kaufmaennischeContent.classList.add("active")
+    allgemeineContent.classList.remove("active")
+    technischeContent.classList.remove("active")
+  }
 
-  kaufmaennischeContent.classList.add("active")
-  allgemeineContent.classList.remove("active")
-  technischeContent.classList.remove("active")
-}
+  technischeBtn.onclick = function(){
+    allgemeineBtn.classList.remove("active")
+    kaufmaennischeBtn.classList.remove("active")
+    this.classList.add("active")
 
-technischeBtn.onclick = function(){
-  allgemeineBtn.classList.remove("active")
-  kaufmaennischeBtn.classList.remove("active")
-  this.classList.add("active")
+    technischeContent.classList.add("active")
+    allgemeineContent.classList.remove("active")
+    kaufmaennischeContent.classList.remove("active")
+  }
+};
 
-  technischeContent.classList.add("active")
-  allgemeineContent.classList.remove("active")
-  kaufmaennischeContent.classList.remove("active")
-}
 
 import 'navigation.js'
