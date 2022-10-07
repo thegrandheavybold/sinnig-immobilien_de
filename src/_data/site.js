@@ -1,9 +1,9 @@
 module.exports = {
-  url: "https://sinnig-immobilien.netlify.app",
+  url: "https://sinnig-immobilien.de",
   baseUrl: "/",
   name: "Sinnig Immobilien",
   author: "Maximilian Sinnig",
   metaImage: "",
   metaTitle: "Sinnig Immobilien",
-  metaDescription: "Ihr Immobilienmakler auf der Ruhrhalbinsel"
+  metaDescription: "Seit 25 Jahren – Ihr Immobilienmakler auf der Ruhrhalbinsel"
 };
