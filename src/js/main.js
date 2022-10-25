@@ -46,15 +46,11 @@ ELs_inViewport.forEach(EL => {
 
 
 //Anfrage Mietverwaltung Form Opener
-document.onload = function(){
+document.querySelector("#mietverwaltungAnfrage").addEventListener("click", myFunction);
 
-  var btnAnfrage = document.querySelector("#mietverwaltungAnfrage");
-  var formAnfrage = document.querySelector(".mietverwaltung_form");
-
-  btnAnfrage.onclick = function(){
-    formAnfrage.classList.toggle("anfrage")
-  }
-};
+function myFunction() {
+  document.querySelector(".mietverwaltung_form").classList.add("anfrage");
+}
 
 
 //Vorteile box Click Function
