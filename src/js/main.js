@@ -45,16 +45,9 @@ ELs_inViewport.forEach(EL => {
 });
 
 
-//Anfrage Mietverwaltung Form Opener
-document.querySelector("#mietverwaltungAnfrage").addEventListener("click", myFunction);
-
-function myFunction() {
-  document.querySelector(".mietverwaltung_form").classList.add("anfrage");
-}
-
 
 //Vorteile box Click Function
-document.onload = function(){
+document.addEventListener('click', function(){
 
   var container = document.querySelector("#vorteile_box");
 
@@ -97,7 +90,14 @@ document.onload = function(){
     allgemeineContent.classList.remove("active")
     kaufmaennischeContent.classList.remove("active")
   }
-};
+});
 
+
+//Anfrage Mietverwaltung Form Opener
+document.querySelector("#mietverwaltungAnfrage").addEventListener("click", myFunction);
+
+function myFunction() {
+  document.querySelector(".mietverwaltung_form").classList.add("anfrage");
+}
 
 import 'navigation.js'
