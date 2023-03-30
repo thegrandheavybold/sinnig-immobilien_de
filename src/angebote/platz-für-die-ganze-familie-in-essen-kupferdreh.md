@@ -8,15 +8,15 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
 * Wohnfläche: ca. 209,19 m²
 * Grundstücksflläche: ca. 626,00 m²
 * Zimmeranzahl: 6
-* Kaufpreis: EUR 599.000,00
+* Kaufpreis: EUR 499.000,00
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,37 +666,23 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Falls Sie schon lange auf der Suche nach einem geeigneten Zuhause für Ihre Familie und den Großeltern sind, dann können Sie jetzt aufatmen! Hier haben Sie endlich die passende Immobilie gefunden!
 
- 
-
 Dieses im Jahr 1966 gebaute und im Jahr 2000 erweiterte Zweifamilienhaus befindet sich in absoluter TOP Lage von Velbert Langenhorst, ruhig gelegen, in direkter Waldnähe.
-
- 
 
 Insgesamt stehen Ihnen hier ca. 209,19 m² Wohnfläche verteilt auf zwei Wohnungen zur Verfügung:
 
- 
-
 Wohnung Nr. 1 (Erdgeschoss und Dachgeschoss) verfügt über ca. 120,92 m² Wohnfläche, welche sich aus Wohn- Essbereich mit angrenzender, südlich ausgerichteten XXL-Terrasse, Küche und Gäste-WC im Erdgeschoss, sowie drei weiteren, individuell nutzbaren Räumen im Obergeschoss zusammensetzt. Der Spitzboden ist wohnlich ausgebaut und bietet mit einer Nutzfläche von ca. 13,14 m² zusätzlichen Raum für Ihre Wohnideen.
-
- 
 
 Wohnung Nr. 2 (Baujahr 2000) befindet sich im Souterrain des Hauses und verfügt über insgesamt 88,27 m² Wohnfläche, verteilt auf Wohnzimmer, mit direktem Zugang zur südlich ausgerichteten Terrasse/Garten, Küche, Badezimmer und Schlafzimmer.
 
- 
-
 Zurzeit sind beide Wohnungen über den Flur/Keller der Erdgeschosswohnung miteinander verbunden. Die Souterrain Wohnung verfügt zusätzlich über einen separaten Eingang inkl. Treppenlift und kann ohne großen Aufwand als eigenständige Einheit genutzt/vermietet werden.
 
- 
-
 Abgerundet wird dieses Angebot durch einen liebevoll angelegten Garten mit Gewächshaus und Gartenhäuschen.
-
- 
 
 Erwähnenswert ist ebenfalls, dass das Objekt bereits nach § 8 WEG geteilt wurde. Sollten Sie sich also nach einiger Zeit für einen Verkauf des Hauses entscheiden, ist es Ihnen freigestellt, ob Sie eine einzelne Eigentumswohnung verkaufen möchten, oder das gesamte Haus (zwei Eigentumswohnungen im Paket).
 
