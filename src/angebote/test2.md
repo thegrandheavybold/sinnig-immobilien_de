@@ -8,15 +8,15 @@ featuredImage: /assets/img/uploads/7ec02c91-d97d-49ca-8676-1920e80a2816-15813124
 * Wohnfläche: ca. 318,00 m²
 * Zimmeranzahl: 8
 * Grundstück: ca. 1.087,00 m²
-* Kaufpreis: EUR 1.399.000,00
+* Kaufpreis: EUR 1.299.000,00
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ featuredImage: /assets/img/uploads/7ec02c91-d97d-49ca-8676-1920e80a2816-15813124
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ featuredImage: /assets/img/uploads/7ec02c91-d97d-49ca-8676-1920e80a2816-15813124
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,71 +666,41 @@ featuredImage: /assets/img/uploads/7ec02c91-d97d-49ca-8676-1920e80a2816-15813124
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 Große, helle Räume, viel Platz, ein hochwertig angelegter Außenbereich und ein nicht einsehbares Grundstück … hier haben Sie ihn endlich gefunden – Ihren ganz persönlichen Traum vom Eigenheim.
 
- 
-
- 
-
 Diese Immobilie bietet Ihnen mit 318,00 m² Wohn-/Nutzfläche, verteilt auf zwei Etagen alles, was ihr Herz begehrt.
-
- 
 
 Das Erdgeschoss verfügt über einen 51,47 m² großen, offen gehaltenen Wohn- und Essbereich mit angrenzender Küche. Ein kleiner Hingucker ist mit Sicherheit der Echtholzkamin, der sich nicht nur optisch perfekt ins Gesamtbild schmiegt, sondern auch für Wärme und ein gemütliches Ambiente sorgen kann.
 
- 
-
 Vom Wohnbereich aus gelangen Sie direkt auf die ca. 17,40 m² große südöstlich ausgerichtete Terrasse. Hier haben Sie ausreichend Platz, um Ihre Gäste bei einem sommerlichen Grillabend zu verwöhnen.
-
- 
 
 Weiterhin verfügt diese Ebene über ein Elternschlafzimmer mit einer Größe von ca. 22,30 m², drei weitere, individuell nutzbare Räume mit Raumgrößen von 8,75 m² bis 12,90 m², ein Tageslichtbadezimmer, ein Gäste - WC sowie über einen Hauswirtschaftsraum.
 
- 
-
- 
-
 Im Souterrain befindet sich eine weitere Wohnung, die als separate Einheit genutzt/vermietet werden kann. Alternativ steht einer klassischen Nutzung als „Einfamilienhaus“ durch die direkte Verbindung mit der Erdgeschosswohnung über den Hausflur nichts im Wege.
 
- 
-
 Die vorgenannte Einheit setzt sich zusammen aus einem ca. 29,07 m² großen Wohnzimmer, mit direktem Zugang zur ca. 55,96 m² großen, südlich ausgerichteten Terrasse inkl.  Garten, einem ca. 17,58 m² großen Schlafzimmer, einem Tageslichtbadezimmer, einem Gäste-WC und einem Hauswirtschaftsraum.
-
- 
 
 Entscheiden Sie selbst, ob Sie aus „zwei“, „eins“ machen, ein Familienmitglied einziehen lassen, oder vermieten.
 
 Die Souterrainwohnung befindet sich überwiegend - ausgenommen der Teilsanierung des Badezimmers und des Gäste-WCs` - im Originalzustand.
 
- 
-
- 
-
 Ganz besonders sticht der liebevoll angelegte Außenbereich hervor.
 
 Beginnend mit dem pompösen Eingangsbereich, über die gepflegte Zuwegung mit hochgewachsener Bepflanzung, bis hin zu einer mit Natursteinen angelegten Grill/Chillout "Ecke" - hier wurde nicht nur an alles gedacht, sondern auch in Perfektion umgesetzt.
 
- 
-
 Das gesamte Grundstück ist mit hohen "Naturstein" Gabionen eingefriedet worden.
 
- 
-
 Die Videoüberwachung und Alarmsicherung sorgen für das extra Maß an Sicherheit.
-
- 
 
 Zusätzlich steht Ihnen noch eine (äußerst großzügige) Doppelgarage mit funkferngesteuerten Sektionaltor zur Verfügung.
 
 <!--EndFragment-->
 
 Weitere Details und Fotos finden Sie bei  Immobilienscout24 unter Scout-ID: 138231717
-
-
 
 ![](/assets/img/uploads/fbd2b4b6-2531-4740-bb23-4f4310e94cb3-1581311240.webp)
 
