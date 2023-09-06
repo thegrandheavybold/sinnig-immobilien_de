@@ -3,7 +3,7 @@ layout: layout/post.njk
 slug: Essen-Kupferdreh
 title: Ladenlokal in absoluter top Lage in Essen-Kupferdreh
 date: 2023-02-27T14:19:19.938Z
-featuredImage: /assets/img/uploads/20230711_150441.jpg
+featuredImage: /assets/img/uploads/20230711_150438.jpg
 ---
 * Wohnfläche: ca. 165,17 m²
 * Zimmeranzahl: 3
@@ -60,15 +60,9 @@ Aktuell werden diese als Büro- und Lagerräume genutzt.
 
 Um das Angebot für Sie perfekt zu machen, gehört eine Garage (bereits im Kaufpreis enthalten) mit elektrischem Tor und vorgelagertem Stellplatz zum Haus - Parkplatzsuche gehört der Vergangenheit an.
 
-
-
 ```
 
 ```
-
-
-
-
 
 Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 144076424
 
@@ -76,6 +70,6 @@ Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 14407
 
 ![](/assets/img/uploads/20230711_151227.jpg)
 
-![](/assets/img/uploads/20230711_150328.jpg)
+![](/assets/img/uploads/20230711_150315.jpg)
 
 ![]()
