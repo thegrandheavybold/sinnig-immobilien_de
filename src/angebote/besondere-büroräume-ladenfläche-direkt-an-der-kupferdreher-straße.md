@@ -66,9 +66,9 @@ Um das Angebot für Sie perfekt zu machen, gehört eine Garage (bereits im Kaufp
 
 Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 144076424
 
-![](/assets/img/uploads/20230711_150540.jpg)
+![](/assets/img/uploads/20230711_150537.jpg)
 
-![](/assets/img/uploads/20230711_151227.jpg)
+![](/assets/img/uploads/20230711_151339.jpg)
 
 ![](/assets/img/uploads/20230711_150315.jpg)
 
