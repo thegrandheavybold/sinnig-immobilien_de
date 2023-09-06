@@ -8,15 +8,15 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
 * Wohnfläche: ca. 209,19 m²
 * Grundstücksflläche: ca. 626,00 m²
 * Zimmeranzahl: 6
-* Kaufpreis: EUR 499.000,00
+* Kaufpreis: EUR 449.000,00
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-15984350
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
