@@ -1,7 +1,7 @@
 ---
 layout: layout/post.njk
 slug: Essen-Kupferdreh
-title: Ladenlokal in absoluter top Lage in Essen-Kupferdreh
+title: Für Paare oder die kleine Familie in Essen-Kupferdreh
 date: 2023-02-27T14:19:19.938Z
 featuredImage: /assets/img/uploads/20230711_150438.jpg
 ---
