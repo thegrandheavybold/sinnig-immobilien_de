@@ -7,9 +7,7 @@ featuredImage: /assets/img/uploads/476868e1-3a5e-4f44-948e-bb6fcf99d7ff-16279222
 ---
 * Wohnfläche: ca. 76,45 m²
 * Zimmer: 4
-* Kaufpreis: EUR 149.000,00
-
-
+* Kaufpreis: EUR 139.000,00
 
 Die angebotene Wohnung befindet sich in einer ruhigen Randlage von Essen-Burgaltendorf. Die Wohnung liegt im 3. OG eines gepflegten Mehrfamilienhauses mit insgesamt 8 Parteien.
 
@@ -36,9 +34,7 @@ Hinter dem Haus befindet sich ein Garten/Wiesenfläche, welcher gemeinschaftlich
 
 Zusammenfassend können wir Ihnen eine Wohnung mit einem schönen Grundriss und Potenzial anbieten. Mit den ein oder anderen Modernisierungsmaßnahmen könnte hier Ihr persönliches Schmuckstück entstehen.
 
-Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 143245956
-
-
+Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 145380553
 
 ![](/assets/img/uploads/76105537-e8ce-41ce-938d-4fd77fbaf423-1627922265.webp)
 
