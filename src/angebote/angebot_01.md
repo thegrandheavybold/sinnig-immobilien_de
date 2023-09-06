@@ -1,6 +1,6 @@
 ---
-title: Neubau - Garage - Stellplatz - Einbauküche - Dachterrasse - Klimaanlage -
-  Fußbodenheizung - uvm.
+title: Neubau - 65 m² Dachterrasse - Garage - Stellplatz - Einbauküche -
+  Klimaanlage - Fußbodenheizung - uvm.
 description: Das ist das erste Angebote
 slug: Essen-Rüttenscheid
 date: 2023-06-20T06:47:34.390Z
