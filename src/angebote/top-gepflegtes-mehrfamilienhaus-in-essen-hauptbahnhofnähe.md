@@ -7,7 +7,7 @@ featuredImage: /assets/img/uploads/476868e1-3a5e-4f44-948e-bb6fcf99d7ff-16279222
 ---
 * Wohnfläche: ca. 76,45 m²
 * Zimmer: 4
-* Kaufpreis: EUR 139.000,00
+* Kaufpreis: EUR 125.000,00
 
 Die angebotene Wohnung befindet sich in einer ruhigen Randlage von Essen-Burgaltendorf. Die Wohnung liegt im 3. OG eines gepflegten Mehrfamilienhauses mit insgesamt 8 Parteien.
 
