@@ -2,7 +2,7 @@
 layout: layout/post.njk
 slug: Essen-Leithe
 title: Top gepflegtes RMH mit Platz für die ganze Familie!
-date: 2023-02-27T14:00:54.442Z
+date: 2023-10-05T09:12:04.386Z
 featuredImage: /assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-1596294309.webp
 ---
 * Wohnfläche: ca. 149,12 m²
