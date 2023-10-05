@@ -2,7 +2,7 @@
 layout: layout/post.njk
 slug: Verkaufsobjekte
 title: Verkaufsobjekte
-date: 2022-09-13T20:20:52.986Z
+date: 2023-10-05T09:23:55.173Z
 featuredImage: /assets/img/uploads/baldeneysee.jpg
 ---
 ![](/assets/img/uploads/059627dd-e9aa-482c-8aeb-e645de30c99e-1446059762.jpeg)
