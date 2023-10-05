@@ -1,43 +1,41 @@
 ---
 layout: layout/post.njk
-slug: Essen-Burgaltendorf
-title: Solide 4-Zimmer-Wohnung mit Fernblick - Essen-Burgaltendorf
-date: 2023-06-20T06:49:51.462Z
-featuredImage: /assets/img/uploads/476868e1-3a5e-4f44-948e-bb6fcf99d7ff-1627922258.webp
+slug: Essen-Kupferdreh
+title: Platz für die ganze Familie im beliebten Essen - Kupferdreh
+date: 2023-10-05T08:39:02.705Z
+featuredImage: /assets/img/uploads/e346fe6d-66d3-4158-a5fc-f986eefaa05e-1627251670.jpeg
 ---
-* Wohnfläche: ca. 76,45 m²
-* Zimmer: 4
-* Kaufpreis: EUR 125.000,00
+* Wohnfläche: ca. 219 m²
+* Zimmer: 8
+* Grundstück: ca. 290 m²
+* Kaufpreis: EUR 488.000,00
 
-Die angebotene Wohnung befindet sich in einer ruhigen Randlage von Essen-Burgaltendorf. Die Wohnung liegt im 3. OG eines gepflegten Mehrfamilienhauses mit insgesamt 8 Parteien.
+Dieses gepflegte und fortlaufend modernisierte Zweifamilienhaus befindet nicht weit entfernt vom Kupferdreher Ortskern.
 
-Über die Diele haben Sie Zutritt zu allen Räumen - so auch in das ca. 20 qm große Wohnzimmer.
-Dank der großzügigen Fensterfront gelangt viel Tageslicht in den Raum und Sie haben einen schönen Blick ins Grüne.
+Insgesamt verfügt das Objekt eine Wohnfläche von 219,00 m², verteilt auf zwei Wohnungen und insgesamt drei Etagen, inklusive ausgebauten Spitzboden.
 
-Vom Wohnzimmer aus haben Sie auch Zugang zur süd-west ausgerichteten Loggia.
-Diese bietet Ihnen genügend Platz für eine gemütliche Sitzgelegenheit, sodass Sie entspannte Stunden und den Blick in die Ferne genieße können.
+Die Eigentümerwohnung befindet sich im 2.OG und verfügt über einen charmanten Wohn- und Essbereich, ein Schlafzimmer, eine Küche und ein Duschbad.
 
-Das Schlafzimmer verfügt über ausreichend Platz für einen großen Kleiderschrank und ein übliches Doppelbett.
+Im ausgebauten Spitzboden des Hauses erwartet Sie ein "Spieleparadies" für Ihre Kinder mit zwei separaten Kinderzimmern - alternativ kann die gesamte Fläche auch als Homeoffice o.Ä. genutzt werden.
 
-Zwei weitere Zimmer stehen zur individuellen Nutzung zur Verfügung.
+Die Maisonettewohnung im Erd- und Obergeschoss setzt sich wie folgt zusammen: Wohnzimmer, Schlafzimmer, Esszimmer, Küche und Tageslichtbadezimmer. 
 
-Die Küche bietet Ihnen Platz für eine Küchenzeile und einen kleinen Essbereich.
+Aktuell sind die Etagen EG und OG nicht miteinander verbunden. Allerdings kann dieser Zustand mit wenig Arbeitsaufwand wieder rückgängig gemacht werden. 
 
-Das innenliegende Badezimmer ist mit WC, einem Waschtisch und einer Dusche 
-Ausgestattet – lassen Sie Ihrer Kreativität freien Lauf und gestalteten Sie sich Ihr Wunschbadezimmer.
+Die Nutzungsmöglichkeiten dieser Immobilie sind Vielfältig.
 
-In der Diele befindet sich eine kleine Abstellkammer für zusätzlichen Stauraum.
+* Mehrgenerationenwohnen
+* Selbstnutzung und Teilvermietung 
+* Reine Kapitalanlage
 
-Ein eigener Kellerraum ist ebenfalls vorhanden.
+..... Sie dürfen entscheiden!
 
-Hinter dem Haus befindet sich ein Garten/Wiesenfläche, welcher gemeinschaftlich genutzt werden kann.
+Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 143182703
 
-Zusammenfassend können wir Ihnen eine Wohnung mit einem schönen Grundriss und Potenzial anbieten. Mit den ein oder anderen Modernisierungsmaßnahmen könnte hier Ihr persönliches Schmuckstück entstehen.
 
-Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 145380553
 
-![](/assets/img/uploads/76105537-e8ce-41ce-938d-4fd77fbaf423-1627922265.webp)
+![](/assets/img/uploads/fbb9f657-cf27-4417-a981-9eaf74b2f678-1627251698.jpeg)
 
-![](/assets/img/uploads/21a9a247-d109-489c-b803-0a59fef566ef-1627922278.webp)
+![](/assets/img/uploads/4e5bbe33-5459-4f34-b925-eb31e2e59a06-1627251715.jpeg)
 
-![](/assets/img/uploads/bdda06a8-5b4d-4cf7-849c-a22772c5f5b4-1627922297.webp)
+![](/assets/img/uploads/4414af05-c891-4da1-b124-a35eea4d0b56-1627251676.jpeg)
