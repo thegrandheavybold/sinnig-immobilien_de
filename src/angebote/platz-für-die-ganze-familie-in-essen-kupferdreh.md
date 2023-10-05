@@ -2,7 +2,7 @@
 layout: layout/post.njk
 slug: "Velbert - Langenhorst "
 title: Zweifamilienhaus in TOP Lage von Velbert - Langenhorst
-date: 2023-02-27T15:02:36.850Z
+date: 2023-10-05T09:11:27.547Z
 featuredImage: /assets/img/uploads/84895130-8f76-42f8-b0af-202c04b15fa6-1598435002.webp
 ---
 * Wohnfläche: ca. 209,19 m²
