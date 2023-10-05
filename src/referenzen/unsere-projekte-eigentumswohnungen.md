@@ -2,7 +2,7 @@
 layout: layout/post.njk
 slug: Entwickelte Wohnimmobilien
 title: Entwickelte Wohnimmobilien
-date: 2022-09-13T20:08:37.951Z
+date: 2023-10-05T09:17:49.213Z
 featuredImage: /assets/img/uploads/5d1ee717-83b0-4b95-b4be-23779bd1ae05-1173445718.jpg
 ---
 #### Einfamilienhäuser
