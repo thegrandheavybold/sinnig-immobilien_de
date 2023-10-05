@@ -3,7 +3,7 @@ title: Neubau - 65 m² Dachterrasse - Garage - Stellplatz - Einbauküche -
   Klimaanlage - Fußbodenheizung - uvm.
 description: Das ist das erste Angebote
 slug: Essen-Rüttenscheid
-date: 2023-06-20T06:47:34.390Z
+date: 2023-10-05T09:12:49.057Z
 featuredImage: /assets/img/uploads/20230821_105141.jpg
 ---
 * Wohnfläche: ca. 271,64 m²
