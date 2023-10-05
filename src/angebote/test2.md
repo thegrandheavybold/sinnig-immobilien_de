@@ -2,7 +2,7 @@
 layout: layout/post.njk
 slug: Essen-Burgaltendorf
 title: Liebe auf den ersten Blick in Essen-Burgaltendorf
-date: 2023-02-27T14:48:57.867Z
+date: 2023-10-05T09:13:12.890Z
 featuredImage: /assets/img/uploads/7ec02c91-d97d-49ca-8676-1920e80a2816-1581312419.webp
 ---
 * Wohnfläche: ca. 318,00 m²
