@@ -8,7 +8,7 @@ featuredImage: /assets/img/uploads/e346fe6d-66d3-4158-a5fc-f986eefaa05e-16272516
 * Wohnfläche: ca. 219 m²
 * Zimmer: 8
 * Grundstück: ca. 290 m²
-* Kaufpreis: EUR 488.000,00
+* Kaufpreis: EUR 450.000,00
 
 Dieses gepflegte und fortlaufend modernisierte Zweifamilienhaus befindet nicht weit entfernt vom Kupferdreher Ortskern.
 
@@ -31,8 +31,6 @@ Die Nutzungsmöglichkeiten dieser Immobilie sind Vielfältig.
 ..... Sie dürfen entscheiden!
 
 Weitere Details und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 143182703
-
-
 
 ![](/assets/img/uploads/fbb9f657-cf27-4417-a981-9eaf74b2f678-1627251698.jpeg)
 
