@@ -8,7 +8,7 @@ featuredImage: /assets/img/uploads/20230821_105141.jpg
 ---
 * Wohnfläche: ca. 271,64 m²
 * Zimmeranzahl: 4
-* Kaufpreis: 1.550.000,00 EUR
+* Kaufpreis: 1.490.000,00 EUR
 
 Nicht von dieser Welt trifft es hier ziemlich genau –die ca. 63 m² große Dachterrasse, verbaute Materialen, Grundrissgestaltung, Ausstattung - alles was in anderen Wohnung DAS Highlight ist, ist hier quasi selbstverständlich.
 
@@ -68,7 +68,9 @@ Auf der ca. 63 m² großen Dachterrasse jagt ein Highlight das nächste:
 
 ................
 
-Lesen Sie mehr in unserem Exposé bei  Immobilienscout24 unter Scout-ID: 142990870
+Lesen Sie mehr in unserem Exposé bei  Immobilienscout24 unter Scout-ID: 147561933
+
+
 
 ![](/assets/img/uploads/3911b99c-98f1-4d1c-90dd-f2239bb1f3a6-1625997603.webp)
 
