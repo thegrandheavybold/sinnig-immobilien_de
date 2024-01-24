@@ -3,7 +3,7 @@ layout: layout/post.njk
 slug: Essen-Kupferdreh
 title: Platz für die ganze Familie im beliebten Essen - Kupferdreh
 date: 2023-10-05T08:39:02.705Z
-featuredImage: /assets/img/uploads/e346fe6d-66d3-4158-a5fc-f986eefaa05e-1627251670.jpeg
+featuredImage: /assets/img/uploads/20230411_125900.jpg
 ---
 * Wohnfläche: ca. 219 m²
 * Zimmer: 8
