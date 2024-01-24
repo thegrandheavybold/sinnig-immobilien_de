@@ -1,45 +1,48 @@
 ---
 layout: layout/post.njk
-slug: Velbert - Langenberg
-title: "Anlage oder Selbstnutzung? Sie entscheiden! "
-date: 2023-10-05T07:11:25.533Z
-featuredImage: /assets/img/uploads/11a43d8e-beb4-4f9d-bf87-b84e2dea0940-1615866944.jpeg
+slug: Essen-Huttrop
+title: "Unikat am Markt - Einbauküche inklusive "
+date: 2024-01-24T10:27:20.810Z
+featuredImage: /assets/img/uploads/40c26eb4-52b8-4998-881b-1d5d9c8f2928-1681910519.webp
 ---
-* Wohnfläche: ca. 430 m²
-* Zimmeranzahl: 13
-* Grundstück: ca. 307 m²
-* Kaufpreis: EUR 749.000,00
+* Wohnfläche: ca. 118,96 m²
+* Zimmeranzahl: 3
+* Kaufpreis: EUR 469.000,00
 
-Dieses eindrucksvolle Mehrfamilienhaus befindet sich in gefragter Wohnlage von Velbert - Langenberg, in einer ruhigen Seitenstraße gelegen.
+Die hier angebotene Eigentumswohnung befindet sich in einem im Jahr 2023 umfangreich modernisierten (5 Parteien) Mehrfamilienhaus, in beliebter Wohnlage von Essen - Huttrop, nahe des Elisabeth-Krankenhauses 
 
-Insgesamt verfügt das Haus über eine Wohnfläche von ca. 430,00, verteilt auf insgesamt 4 Wohnungen (Erdgeschoss, 1. & 2. Obergeschoss, sowie Dachgeschoss).
+In der Wohnung erwartet Sie ein komplett offen gehaltener,  ca. 43,07 m² großer Wohn-/ Ess- und Kochbereich, der Ihnen zahlreiche Möglichkeiten bietet, sich ganz nach Ihren Wünschen einzurichten. Von hier aus gelangen Sie auch auf den ca. 5,4 m² großen, südöstlich ausgerichteten Balkon. 
 
-Die Wohnungen überzeugen durch ein offen gehaltenes, helles 3 - 4 Raumkonzept mit hochwertig und liebevoll restaurierten Elementen aus der Gründerzeit. 
+Ein weiterer, kleiner Balkon ist von der Diele aus begehbar.
 
-Die Erdgeschosswohnung verfügt über eine Wohnfläche von ca. 105,47 m² und ist seit dem 15.11.2022 vermietet. 
+Das Schlafzimmer bietet mit insgesamt ca. 19,75 m² ausreichend Fläche für einen großen Kleiderschrank, Bett und Nachttische. 
 
-Die Wohneinheit im 1. Obergeschoss verfügt über eine Wohnfläche von ca. 116,19 m² und ist seit dem 01.07.2023 vermietet.
+Das angrenzende, ca. 13,67 m² große "Bad en Suite" ist neben den altbautypischen, hohen Decken und den 2,11 m hohen Wohnungsinnentüren, ein weiteres Highlight. Eine freistehende Badewanne, eine bodengleiche XL Raindance Dusche, Waschtisch, Wand WC, Einbauradio und die LED Spots lassen keine Wünsche offen ...
 
-Kommen wir zum Herzstück des Hauses:
+Für den Nachwuchs und/oder die Gäste steht ein  weiteres, ca. 22,41 m² großes Zimmer zur Verfügung.
 
-Im 2. OG befindet sich eine ca. 117,16 m² große, potentielle Eigentümerwohnung:
+Das Raumangebot wird durch das Gäste WC und einer separaten, weiteren Walk-in (Raindance) Dusche abgerundet.
 
-Genau wie bei den darunter liegenden Einheiten, besticht diese durch ein durchdachtes 3 - 4 Raumkonzept. Das offen gehaltene, ca. 38,34 m² große Wohnzimmer wird von einer liebevoll restaurierten Holz - Schiebetür aufgeteilt. Hier befindet sich zudem ein kleiner Wintergarten, der perfekt ins Erscheinungsbild des Hauses / der Wohnung passt
+In allen Wohnräumen wurde ein Echtholzboden "Lindura Landhausdiele HD400 Eiche Authentic karamell" verlegt.
 
-Das Kinderzimmer ist vom Wohnzimmer, aber auch von der Diele  aus zugänglich. Ob Sie diesen Raum weiter als Kinderzimmer nutzen wollen, oder alternativ ein Esszimmer/Arbeitszimmer benötigen, können Sie entscheiden.
+Die sanitären Bereiche sind mit großformatigen, betongrauen Bodenfliesen gefliest worden (1,20 m x 0,60 m).
 
-Neben den o.g. Räumlichkeiten stehen Ihnen noch ein Schlafzimmer, ein saniertes Tageslichtbadezimmer, ein saniertes Gäste WC, sowie eine Küche zur Verfügung.
+Die Wände wurde glatt verputzt und weiß gestrichen ...
 
-Sollten Sie sich für die Vermietung dieser Wohneinheit entscheiden, können Sie mit mtl. Mieteinkünften in Höhe von EUR 860,00 rechnen.
+.... Eine detaillierte Ausstattungsbeschreibung finden Sie unter dem entsprechenden, nachstehenden Absatz.
 
-Die Dachgeschosswohnung verfügt über eine Wohnfläche von ca. 92,61 m² und ist seit dem 01.10.2010 vermietet. 
+Zusammenfassend kann man sagen, dass Sie hier die seltene Gelegenheit geboten bekommen, eine provisionsfreie Eigentumswohnung zu erwerben, bei der Sie sich keine Gedanken über bevorstehenden Modernisierungs- oder energetische Sanierungsmaßnahmen machen  müssen - und das für eine lange Zeit!
 
-Zusammenfassend lässt sich sagen, dass Sie hier die Gelegenheit geboten bekommen, ein Mehrfamilienhaus in begehrter Wohnlage von Velbert - Langenberg zu erwerben. Wenn es um die Nutzung geht, sind Ihnen fast keine Grenzen gesetzt - Selbstnutzung, reine Kapitalanlage, oder soll es doch die Umwandlung in Eigentumswohnungen sein? Sie haben die Wahl!
+Auch mit Blick auf die Qualität, die Beschaffenheit und Verarbeitung der ausgewählten Materialien können wir Ihnen mit Sicherheit sagen, dass Sie wohl kaum vergleichbaren Wohnraum finden werden.
 
-Weitere Informationen und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 141800789
+Wir hoffen, dass wir Ihnen einen ersten Eindruck der Immobilie verschaffen konnten und freuen uns schon jetzt auf eine unverbindliche Innenraumbesichtigung mit Ihnen!
 
-![](/assets/img/uploads/20230424_105753.jpg)
+Weitere Informationen und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 147562543
 
-![](/assets/img/uploads/56b361d8-b646-4a58-805d-ac20fc1edcc9-1615869007.jpg)
 
-![](/assets/img/uploads/20230424_105906.jpg)
+
+![](/assets/img/uploads/2060e350-52d2-4b7a-b6c4-5c97197f6380-1681442829.webp)
+
+![](/assets/img/uploads/c70a92d5-f1f0-47b1-a5c4-632af6058b75-1681912003.webp)
+
+![](/assets/img/uploads/7f2d54d7-cb32-405a-913a-4fb8517001db-1681910592.webp)
