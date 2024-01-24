@@ -3,20 +3,20 @@ layout: layout/post.njk
 slug: Essen-Leithe
 title: Top gepflegtes RMH mit Platz für die ganze Familie!
 date: 2023-10-05T09:12:04.386Z
-featuredImage: /assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-1596294309.webp
+featuredImage: /assets/img/uploads/6146a146-bf08-4178-9e97-cc9eb2411a4b-1596870073.webp
 ---
 * Wohnfläche: ca. 149,12 m²
 * Zimmeranzahl: 5
 * Grundstück: ca. 224 m²
 * Kaufpreis: EUR 399.000,00
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -56,9 +56,9 @@ featuredImage: /assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-15962943
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -637,9 +637,9 @@ featuredImage: /assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-15962943
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ featuredImage: /assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-15962943
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -692,7 +692,7 @@ Das Objekt befindet sich in einem äußerst gepflegten Allgemeinzustand und kann
 
 Weitere Informationen und Fotos finden Sie bei Immobilienscout24 unter Scout-ID: 139824681
 
-![](/assets/img/uploads/6146a146-bf08-4178-9e97-cc9eb2411a4b-1596870073.webp)
+![](/assets/img/uploads/b8af6a23-eb90-4a79-875d-44bfaf66d9e1-1596294309.webp)
 
 ![](/assets/img/uploads/34918438-0134-4a78-b465-33cb7769fc4c-1596292919.webp)
 
